@@ -1,4 +1,3 @@
-# Cricket_Score_Alert
 # Live Cricket Score Alerts 🏏
 
 
